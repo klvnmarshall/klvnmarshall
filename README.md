@@ -13,6 +13,6 @@ Mobile and web developer
 </p>
 
 ### Languages and Tools
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>  </a> <a href="https://angular.io" target="_blank"> <img src="https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg" alt="angular" width="40" height="40"/>  </a> <a href="https://flutter.dev" target="_blank"> <img src="https://iconape.com/wp-content/png_logo_vector/flutter.png" alt="flutter" width="40" height="40"/>  </a> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kelvinmarshall&show_icons=true&locale=en" alt="kelvinmarshall" /></p>
