@@ -1,5 +1,5 @@
 # Hi 👋, I'm Kelvin Macharia
-Mobile and web developer
+Mobile and Frontend Engineer
 
 ![](https://github-profile-trophy.vercel.app/?username=kelvinmarshall)
 
