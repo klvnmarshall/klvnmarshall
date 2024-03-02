@@ -1,4 +1,4 @@
-# Hi 👋, I'm Kelvin Macharia
+# Hi 👋, I'm Kelvin MacHaria
 Mobile and Frontend Engineer
 
 ![](https://github-profile-trophy.vercel.app/?username=klvnmarshall)
