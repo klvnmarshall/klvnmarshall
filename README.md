@@ -25,5 +25,3 @@ Software Engineer
 <a href="https://react.dev" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1024px-React-icon.svg.png" alt="react" height="40"/>  </a>
 <a href="https://nextjs.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/788px-Nextjs-logo.svg.png" alt="nextjs" height="40"/>  </a>
 </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=klvnmarshall&show_icons=true&locale=en" alt="kelvinmarshall" /></p>
